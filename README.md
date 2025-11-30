@@ -18,4 +18,4 @@ Displays CPU/RAM/Disk/Swap usage as bars and miscellaneous below each of them (n
 Displays uptime. network activity, 1m/5m/15m load, data totals
 
 # 3. GUESTS
-Display total LXC and VM count
+Displays total LXC and VM count
