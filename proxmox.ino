@@ -17,7 +17,7 @@ const char* proxmox_ip = "PROXMOX_LOCAL_IP";
 const int   proxmox_port = PROXMOX_NETWORK_PORT;
 const char* node_name    = "PROXMOX_NODE_NAME";
 
-// API Token (Updated with your new secret)
+// API Token
 const char* api_token_id = "PROXMOX_API_TOKEN";
 const char* api_secret   = "API_TOKEN_PASSWORD";
 
