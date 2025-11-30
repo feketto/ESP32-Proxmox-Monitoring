@@ -1,7 +1,6 @@
 # ESP32 Proxmox monitoring system
 
-Model used: TTGO T-Display Standard
-240x135 OLED display
+Model used: TTGO T-Display Standard with 240x135 OLED display
 
 # Functions:
 - Automatically connects to Wi-Fi and fetches data from Proxmox via API
